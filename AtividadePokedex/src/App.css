@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+#nome{
+    text-transform: capitalize;
+}
+
+button{
+    height: 75px;
+    width: 175px;
+    margin: 100px;
+}
+
+.pokemon-container{
+    display: flex; 
+    justify-content: center;
+    align-items: center;
+    height: 600px;
+    background-color: aqua;
+}
